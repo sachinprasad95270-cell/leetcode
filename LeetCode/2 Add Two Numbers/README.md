@@ -9,12 +9,14 @@
 | Language | File | Date |
 |----------|------|------|
 | C++ | [solution.cpp](solution.cpp) | 2026-07-21 |
+| Rust | [solution.rs](solution.rs) | 2026-07-21 |
 
 ## Stats (latest submission)
 
 | Metric | Value |
 |--------|-------|
-| Memory  | 77052000 |
+| Runtime | 1 |
+| Memory  | 2280000 |
 
 ---
 
